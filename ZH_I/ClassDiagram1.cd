@@ -1,0 +1,86 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Comment CommentText="Azt hiszem sikeres lesz :(&#xD;&#xA;">
+    <Position X="5.948" Y="0.677" Height="0.75" Width="1.7" />
+  </Comment>
+  <Class Name="ZH_I.Barna">
+    <Position X="3" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAEAAEAAAAA=</HashCode>
+      <FileName>Barna.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ZH_I.CsacskaNyul">
+    <Position X="0.5" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAEAgAAAAAAAAEAAEAAAAA=</HashCode>
+      <FileName>CsacskaNyul.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ZH_I.Masnapos">
+    <Position X="5.25" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAEAAEAAAAA=</HashCode>
+      <FileName>Masnapos.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ZH_I.Para">
+    <Position X="7.5" Y="2" Width="1.5" />
+    <InheritanceLine Type="ZH_I.Kerekerdo" ManuallyRouted="true">
+      <Path>
+        <Point X="4.5" Y="1.645" />
+        <Point X="4.5" Y="1.669" />
+        <Point X="8.25" Y="1.669" />
+        <Point X="8.25" Y="2" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAEAAEAAAAA=</HashCode>
+      <FileName>Para.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ZH_I.Program" Collapsed="true">
+    <Position X="12" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ZH_I.TreMedve">
+    <Position X="0.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAEAAAAAACAAAAAAEAAAAA=</HashCode>
+      <FileName>TreMedve.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ZH_I.ZsigaCsiga">
+    <Position X="2.5" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAEAgAAAAAAAAEAAEAAAAA=</HashCode>
+      <FileName>ZsigaCsiga.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ZH_I.Bolha">
+    <Position X="4.25" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAA=</HashCode>
+      <FileName>Bolha.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ZH_I.Kerekerdo">
+    <Position X="3.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAA=</HashCode>
+      <FileName>Kerekerdo.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Interface Name="ZH_I.Versenyzes" Collapsed="true">
+    <Position X="6" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Versenyzes.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Tahoma" Size="8.25" />
+</ClassDiagram>
