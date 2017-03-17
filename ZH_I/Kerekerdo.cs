@@ -7,7 +7,7 @@ namespace ZH_I
 {
     public class Kerekerdo : Versenyzes
     {
-        public int Sorszam;
+        private int Sorszam;
         private int Bokor;
     }
 }

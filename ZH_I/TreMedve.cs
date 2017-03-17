@@ -12,11 +12,11 @@ namespace ZH_I
 
         private float Sebesseg;
 
-        public TreMedve(int Sorszam)
+      /*  public TreMedve(int Sorszam)
         {
             Sorszam = this.Sorszam + 1;
             this.Sorszam = Sorszam;
-        }
+        }*/
 
         private int Tavolsag;
     }
